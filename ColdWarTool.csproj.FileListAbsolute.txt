@@ -1,0 +1,6 @@
+C:\Users\spenc\Desktop\ColdWarTool\obj\x64\Debug\ColdWarTool.csprojAssemblyReference.cache
+C:\Users\spenc\Desktop\ColdWarTool\obj\x64\Debug\ColdWarTool.csproj.CoreCompileInputs.cache
+C:\Users\spenc\Desktop\ColdWarTool\bin\Debug\7r689g76986h.exe
+C:\Users\spenc\Desktop\ColdWarTool\bin\Debug\7r689g76986h.pdb
+C:\Users\spenc\Desktop\ColdWarTool\obj\x64\Debug\7r689g76986h.exe
+C:\Users\spenc\Desktop\ColdWarTool\obj\x64\Debug\7r689g76986h.pdb
